@@ -4,9 +4,11 @@
 
 ### Desenvolvedor Full Stack JavaScript | React | Node.js | Sistemas de Gestão
 
-Estudante de **Análise e Desenvolvimento de Sistemas no Senac**, com experiência prática na criação de aplicações web, protótipos digitais e sistemas de gestão.
+Estudante de **Análise e Desenvolvimento de Sistemas no Senac Recife**, atualmente no 5º período, com conclusão prevista para **junho de 2026**.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo%20Lacerda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-lacerda-pereira/)
 [![GitHub](https://img.shields.io/badge/GitHub-Riclacper-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Riclacper)
+[![E-mail](https://img.shields.io/badge/E--mail-ricardolacper%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardolacper@gmail.com)
 
 </div>
 
@@ -18,12 +20,25 @@ Desenvolvo aplicações web com foco em organização, experiência do usuário 
 
 Minha experiência como empreendedor e gestor da **iCanada Reparos** contribui para uma visão prática sobre atendimento, processos, controle de serviços e necessidades reais de um negócio.
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 🎓 Concluindo o curso de Análise e Desenvolvimento de Sistemas
 - 💻 Desenvolvimento com React, Node.js e APIs REST
 - 🧩 Interesse em sistemas de gestão e aplicações Full Stack
 - 🗃️ Conhecimentos e implementações com MongoDB, Firebase e Supabase
-- 🧪 Aprimorando testes, segurança, arquitetura e boas práticas
+- 🧪 Aprimorando testes, arquitetura, segurança e boas práticas
 - 🔎 Disponível para oportunidades na área de desenvolvimento
+
+---
+
+## 🎓 Formação e trajetória acadêmica
+
+### Análise e Desenvolvimento de Sistemas
+
+**Senac Recife** — 5º período  
+Conclusão prevista para **junho de 2026**.
+
+### Tecnologia em Redes de Computadores
+
+Curso superior iniciado anteriormente, com **quatro períodos cursados**. Essa formação contribuiu para conhecimentos de infraestrutura, redes e fundamentos que complementam meu desenvolvimento em aplicações web.
 
 ---
 
@@ -102,6 +117,22 @@ Sistema interno para gestão de assistência técnica, reunindo clientes, equipa
 
 ---
 
+## 🔐 Próximo foco de desenvolvimento
+
+Após concluir a implementação funcional do **iCanada Gestão**, pretendo aprofundar meus estudos em:
+
+- segurança de aplicações web;
+- proteção de dados sensíveis;
+- autenticação e controle de acesso;
+- registro de auditoria;
+- monitoramento contínuo da aplicação;
+- observabilidade, alertas e resposta a incidentes;
+- rotinas de backup e revisão periódica de segurança.
+
+O objetivo é evoluir o sistema com uma abordagem responsável, reduzindo riscos de exposição de dados e acompanhando regularmente a saúde da plataforma.
+
+---
+
 ## 🎯 Áreas de interesse
 
 - Desenvolvimento Full Stack JavaScript
@@ -109,7 +140,8 @@ Sistema interno para gestão de assistência técnica, reunindo clientes, equipa
 - APIs REST
 - Experiência do usuário
 - Automação de processos
-- Segurança e validação de dados
+- Segurança de aplicações e proteção de dados
+- Monitoramento e observabilidade
 - Aplicações orientadas a problemas reais
 
 ---
@@ -117,15 +149,27 @@ Sistema interno para gestão de assistência técnica, reunindo clientes, equipa
 ## 📫 Contato
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/ricardo-lacerda-pereira/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
   <a href="https://github.com/Riclacper">
     <img
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
-</p>
 
-> LinkedIn, portfólio e e-mail profissional serão adicionados após a confirmação dos links públicos.
+  <a href="mailto:ricardolacper@gmail.com">
+    <img
+      src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="E-mail"
+    />
+  </a>
+</p>
 
 ---
 
