@@ -119,17 +119,7 @@ Sistema interno para gestão de assistência técnica, reunindo clientes, equipa
 
 ## 🔐 Próximo foco de desenvolvimento
 
-Após concluir a implementação funcional do **iCanada Gestão**, pretendo aprofundar meus estudos em:
-
-- segurança de aplicações web;
-- proteção de dados sensíveis;
-- autenticação e controle de acesso;
-- registro de auditoria;
-- monitoramento contínuo da aplicação;
-- observabilidade, alertas e resposta a incidentes;
-- rotinas de backup e revisão periódica de segurança.
-
-O objetivo é evoluir o sistema com uma abordagem responsável, reduzindo riscos de exposição de dados e acompanhando regularmente a saúde da plataforma.
+Após concluir o **iCanada Gestão**, pretendo aprofundar meus estudos em segurança de aplicações, proteção de dados, autenticação, auditoria, backups e monitoramento contínuo. O objetivo é evoluir o sistema com uma abordagem responsável, reduzindo riscos de exposição de dados e acompanhando regularmente a saúde da plataforma.
 
 ---
 
