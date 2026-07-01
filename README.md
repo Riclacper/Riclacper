@@ -89,9 +89,11 @@ SPA responsiva para descoberta e simulação de reservas de hospedagens na Islâ
 
 Sistema interno para gestão de assistência técnica, reunindo clientes, equipamentos, serviços, ordens de serviço, vendas, impressão de documentos e indicadores administrativos.
 
-**Tecnologias:** React, Vite, Node.js, Express, MongoDB e APIs REST.
+**Tecnologias:** React, Vite, Node.js, Express, Supabase e APIs REST.
 
-**Status:** projeto privado em desenvolvimento.
+**Infraestrutura planejada:** Cloudflare para DNS, segurança, cache e proteção da aplicação.
+
+**Status:** projeto privado em desenvolvimento, com migração do banco de dados para o Supabase e preparação da infraestrutura no Cloudflare.
 
 ---
 
