@@ -2,13 +2,14 @@
 
 # Olá, sou Ricardo Lacerda Pereira 👋
 
-### Desenvolvedor Full Stack JavaScript | React | Node.js | Sistemas de Gestão
+### Desenvolvedor Full Stack JavaScript | React | Node.js | APIs REST
 
-Estudante de **Análise e Desenvolvimento de Sistemas no Senac Recife**, atualmente no 5º período, com conclusão prevista para **junho de 2026**.
+Desenvolvo aplicações web voltadas a problemas reais, com interesse especial em sistemas de gestão, automação de processos, segurança de aplicações e experiência do usuário.
 
+[![Portfólio](https://img.shields.io/badge/Portfólio-Visitar-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ricardo-lacerda.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo%20Lacerda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-lacerda-pereira/)
 [![GitHub](https://img.shields.io/badge/GitHub-Riclacper-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Riclacper)
-[![E-mail](https://img.shields.io/badge/E--mail-ricardolacper%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardolacper@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardolacper@gmail.com)
 
 </div>
 
@@ -16,94 +17,71 @@ Estudante de **Análise e Desenvolvimento de Sistemas no Senac Recife**, atualme
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvo aplicações web com foco em organização, experiência do usuário e solução de problemas reais.
+Sou estudante de **Análise e Desenvolvimento de Sistemas no Senac Recife**, em fase final de formação, com trajetória prática no desenvolvimento de aplicações web completas.
 
-Minha experiência como empreendedor e gestor da **iCanada Reparos** contribui para uma visão prática sobre atendimento, processos, controle de serviços e necessidades reais de um negócio.
+Minha experiência como empreendedor e gestor da **iCanada Reparos** contribui para uma visão orientada a processos, atendimento, controle operacional e solução de necessidades reais de negócio.
 
-- 🎓 Concluindo o curso de Análise e Desenvolvimento de Sistemas
-- 💻 Desenvolvimento com React, Node.js e APIs REST
-- 🧩 Interesse em sistemas de gestão e aplicações Full Stack
-- 🗃️ Conhecimentos e implementações com MongoDB, Firebase e Supabase
-- 🧪 Aprimorando testes, arquitetura, segurança e boas práticas
-- 🔎 Disponível para oportunidades na área de desenvolvimento
-
----
-
-## 🎓 Formação e trajetória acadêmica
-
-### Análise e Desenvolvimento de Sistemas
-
-**Senac Recife** — 5º período  
-Conclusão prevista para **junho de 2026**.
-
-### Tecnologia em Redes de Computadores
-
-Curso superior iniciado anteriormente, com **quatro períodos cursados**. Essa formação contribuiu para conhecimentos de infraestrutura, redes e fundamentos que complementam meu desenvolvimento em aplicações web.
+- Desenvolvimento de interfaces responsivas com React e Vite
+- Construção de APIs REST com Node.js e Express
+- Persistência de dados com MongoDB, Firebase e Supabase
+- Autenticação, recuperação de senha e verificação por e-mail
+- Testes automatizados, validação de dados e integração contínua
+- Deploy de aplicações com Vercel, Netlify e Render
+- Interesse em segurança de aplicações, proteção de dados e observabilidade
+- Disponível para oportunidades na área de desenvolvimento
 
 ---
 
-## 🛠️ Principais tecnologias
+## 🛠️ Tecnologias e ferramentas
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,vite,git,github"
-    alt="HTML, CSS, JavaScript, React, Node.js, Express, Vite, Git e GitHub"
+    src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,vite,mongodb,firebase,supabase,git,github,vscode,postman,vercel,netlify,figma"
+    alt="HTML, CSS, JavaScript, React, Node.js, Express, Vite, MongoDB, Firebase, Supabase, Git, GitHub, VS Code, Postman, Vercel, Netlify e Figma"
   />
 </p>
 
-## 🗄️ Bancos de dados e serviços
-
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=mongodb,firebase,supabase"
-    alt="MongoDB, Firebase e Supabase"
-  />
-</p>
-
-## 🔧 Ferramentas utilizadas
-
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=vscode,postman,vercel,netlify,figma"
-    alt="VS Code, Postman, Vercel, Netlify e Figma"
-  />
-</p>
-
-Também utilizo **GitHub Actions, Render, Codex, Vitest, ESLint e Prettier** em projetos de estudo e protótipos.
+Também utilizo **JWT, Mongoose, Vitest, Playwright, ESLint, Prettier, GitHub Actions, Render, Recharts, Nodemailer e APIs REST**.
 
 ---
 
 ## 📌 Projetos em destaque
 
+### 🛡️ [EmpregaSafe](https://github.com/Riclacper/emprega-safe-react-node)
+
+[Ver aplicação](https://empregasafe.netlify.app)
+
+Sistema Full Stack para análise da confiabilidade de vagas de emprego, identificação de sinais de fraude e apoio à segurança de candidatos.
+
+**Principais recursos:** autenticação com JWT, verificação por e-mail, recuperação de senha, análise por regras e IA opcional, histórico, denúncias, dashboard, relatórios em PDF, internacionalização e testes automatizados.
+
+**Tecnologias:** React, Vite, Node.js, Express, MongoDB, Mongoose, JWT, Recharts, Nodemailer, Vitest, Playwright e GitHub Actions.
+
+**Status:** aplicação Full Stack publicada, com frontend na Netlify e API preparada para o Render.
+
+---
+
 ### 🚗 [AutoWash Smart](https://github.com/Riclacper/AutoWashSmart)
+
+[Ver demonstração](https://auto-wash-smart.vercel.app)
 
 MVP demonstrativo de uma plataforma para lava-jato inteligente, com cadastro de clientes e veículos, identificação simulada, lavagem automatizada, self-service, mini shop e dashboard administrativo.
 
 **Tecnologias:** React, Vite, JavaScript, React Router, LocalStorage, Vitest, ESLint, Prettier e GitHub Actions.
 
-**Status:** Fase 1 concluída — MVP demonstrativo.
-
-> Pagamentos, biometria e equipamentos físicos são simulados nesta versão.
+**Status:** MVP demonstrativo publicado. Pagamentos, biometria e equipamentos físicos são simulados.
 
 ---
 
 ### 🏔️ [Aurora Stay Iceland](https://github.com/Riclacper/aurora-stay-iceland)
 
-Aplicação de hospedagens com pesquisa, filtros, detalhes de acomodações, fluxo de reserva, área administrativa e interface responsiva.
+[Ver aplicação](https://aurora-stay-iceland.vercel.app/)
 
-**Tecnologias:** React, Vite, Node.js, MongoDB, React Router, Framer Motion e Lucide React.
+SPA responsiva para descoberta e simulação de reservas de hospedagens na Islândia, com busca, filtros, detalhes, cálculo de reservas e dashboard administrativo analítico.
 
-**Status:** Projeto acadêmico Full Stack.
+**Tecnologias:** React 19, Vite 7, React Router, Framer Motion, Lucide React, CSS e Vercel.
 
----
-
-### 🛡️ EmpregaSafe
-
-Plataforma Full Stack para análise da confiabilidade de vagas de emprego, classificação de risco, histórico, denúncias, autenticação e relatórios.
-
-**Tecnologias:** React, Node.js, Express, MongoDB, JWT, Recharts e APIs REST.
-
-**Status:** Protótipo Full Stack em preparação para apresentação pública.
+**Status:** projeto acadêmico Front-end publicado, utilizando dados locais e fluxos demonstrativos.
 
 ---
 
@@ -113,58 +91,44 @@ Sistema interno para gestão de assistência técnica, reunindo clientes, equipa
 
 **Tecnologias:** React, Vite, Node.js, Express, MongoDB e APIs REST.
 
-**Status:** Projeto interno com código privado.
+**Status:** projeto privado em desenvolvimento.
 
 ---
 
-## 🔐 Próximo foco de desenvolvimento
+## 🎓 Formação
 
-Após concluir o **iCanada Gestão**, pretendo aprofundar meus estudos em segurança de aplicações, proteção de dados, autenticação, auditoria, backups e monitoramento contínuo. O objetivo é evoluir o sistema com uma abordagem responsável, reduzindo riscos de exposição de dados e acompanhando regularmente a saúde da plataforma.
+### Análise e Desenvolvimento de Sistemas
+
+**Senac Recife** — formação em fase final, conclusão em 2026.
+
+### Tecnologia em Redes de Computadores
+
+Curso superior iniciado anteriormente, com quatro períodos cursados. Essa trajetória contribuiu para conhecimentos de infraestrutura, redes e fundamentos que complementam o desenvolvimento de aplicações web.
 
 ---
 
-## 🎯 Áreas de interesse
+## 🔐 Foco atual
 
-- Desenvolvimento Full Stack JavaScript
-- Sistemas de gestão
-- APIs REST
-- Experiência do usuário
-- Automação de processos
 - Segurança de aplicações e proteção de dados
-- Monitoramento e observabilidade
-- Aplicações orientadas a problemas reais
+- Autenticação e controle de acesso
+- Testes automatizados e qualidade de código
+- Arquitetura de APIs e bancos de dados
+- Deploy, monitoramento e observabilidade
+- Sistemas de gestão e automação de processos
 
 ---
 
 ## 📫 Contato
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ricardo-lacerda-pereira/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://github.com/Riclacper">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-
-  <a href="mailto:ricardolacper@gmail.com">
-    <img
-      src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="E-mail"
-    />
-  </a>
-</p>
+- **Portfólio:** [portfolio-ricardo-lacerda.vercel.app](https://portfolio-ricardo-lacerda.vercel.app/)
+- **LinkedIn:** [ricardo-lacerda-pereira](https://www.linkedin.com/in/ricardo-lacerda-pereira/)
+- **GitHub:** [Riclacper](https://github.com/Riclacper)
+- **E-mail:** [ricardolacper@gmail.com](mailto:ricardolacper@gmail.com)
 
 ---
 
 <div align="center">
 
-**Desenvolvendo soluções com tecnologia, organização e propósito.**
+**Tecnologia aplicada a problemas reais, com organização, segurança e propósito.**
 
 </div>
