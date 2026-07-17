@@ -2,7 +2,7 @@
 
 # Olá, sou Ricardo Lacerda Pereira 👋
 
-### Desenvolvedor Full Stack JavaScript | React | Node.js | APIs REST
+### Desenvolvedor Full Stack JavaScript | React | Node.js | PostgreSQL | APIs REST
 
 Desenvolvo aplicações web voltadas a problemas reais, com interesse especial em sistemas de gestão, automação de processos, segurança de aplicações e experiência do usuário.
 
@@ -21,12 +21,16 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas no Senac Recife**, em 
 
 Minha experiência como empreendedor e gestor da **iCanada Reparos** contribui para uma visão orientada a processos, atendimento, controle operacional e solução de necessidades reais de negócio.
 
+Atualmente desenvolvo e mantenho o **iCanada Gestão**, um sistema empresarial próprio em homologação, participando do levantamento de requisitos, modelagem dos fluxos, desenvolvimento Full Stack, migração de dados, segurança, testes operacionais e infraestrutura em nuvem.
+
 - Desenvolvimento de interfaces responsivas com React e Vite
-- Construção de APIs REST com Node.js e Express
-- Persistência de dados com MongoDB, Firebase e Supabase
-- Autenticação, recuperação de senha e verificação por e-mail
+- Construção de APIs REST com Node.js, Express e arquitetura MVC
+- Persistência de dados com PostgreSQL, MongoDB, Supabase e Firebase
+- Autenticação, autorização e controle de acesso por perfil
+- Migração de dados, deduplicação, backfills e auditoria de integridade
+- Geração de documentos em PDF e envio de e-mails transacionais
 - Testes automatizados, validação de dados e integração contínua
-- Deploy de aplicações com Vercel, Netlify e Render
+- Deploy com Cloudflare Pages, Render, Vercel e Netlify
 - Interesse em segurança de aplicações, proteção de dados e observabilidade
 - Disponível para oportunidades na área de desenvolvimento
 
@@ -36,12 +40,12 @@ Minha experiência como empreendedor e gestor da **iCanada Reparos** contribui p
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,vite,mongodb,firebase,supabase,git,github,vscode,postman,vercel,netlify,figma"
-    alt="HTML, CSS, JavaScript, React, Node.js, Express, Vite, MongoDB, Firebase, Supabase, Git, GitHub, VS Code, Postman, Vercel, Netlify e Figma"
+    src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,vite,postgres,mongodb,firebase,supabase,git,github,vscode,postman,vercel,netlify,cloudflare,figma"
+    alt="HTML, CSS, JavaScript, React, Node.js, Express, Vite, PostgreSQL, MongoDB, Firebase, Supabase, Git, GitHub, VS Code, Postman, Vercel, Netlify, Cloudflare e Figma"
   />
 </p>
 
-Também utilizo **JWT, Mongoose, Vitest, Playwright, ESLint, Prettier, GitHub Actions, Render, Recharts, Nodemailer e APIs REST**.
+Também utilizo **JWT, Mongoose, Supabase Auth, cookies HttpOnly, proteção CSRF, rate limiting, Vitest, Playwright, ESLint, Prettier, GitHub Actions, Render, Resend API, Recharts, Nodemailer e APIs REST**.
 
 ---
 
@@ -85,15 +89,19 @@ SPA responsiva para descoberta e simulação de reservas de hospedagens na Islâ
 
 ---
 
-### 🧰 iCanada Gestão
+### 🧰 iCanada Gestão — Sistema empresarial em homologação
 
-Sistema interno para gestão de assistência técnica, reunindo clientes, equipamentos, serviços, ordens de serviço, vendas, impressão de documentos e indicadores administrativos.
+Sistema Full Stack desenvolvido para a operação da iCanada Reparos, centralizando clientes, serviços, produtos, estoque, ordens de serviço, vendas, orçamentos, relatórios, documentos em PDF e envio transacional por e-mail.
 
-**Tecnologias:** React, Vite, Node.js, Express, Supabase e APIs REST.
+**Atuação técnica:** levantamento de requisitos, modelagem dos processos, desenvolvimento do frontend e backend, migração de dados legados, homologação, deploy e manutenção evolutiva.
 
-**Infraestrutura planejada:** Cloudflare para DNS, segurança, cache e proteção da aplicação.
+**Arquitetura e segurança:** React, Vite, Node.js, Express em MVC, APIs REST, Supabase PostgreSQL, Supabase Auth, sessões com cookies HttpOnly, controle de acesso por perfil, proteção CSRF, rate limiting e CORS restrito.
 
-**Status:** projeto privado em desenvolvimento, com migração do banco de dados para o Supabase e preparação da infraestrutura no Cloudflare.
+**Dados e operação:** rotinas para importação de planilhas, migração, deduplicação, backfill, auditoria de integridade e preservação de registros históricos.
+
+**Infraestrutura:** Cloudflare Pages, Render, Supabase, Cloudflare DNS e Resend API.
+
+**Status:** ambiente de homologação funcional, em evolução contínua e preparação para operação definitiva.
 
 ---
 
@@ -113,8 +121,9 @@ Curso superior iniciado anteriormente, com quatro períodos cursados. Essa traje
 
 - Segurança de aplicações e proteção de dados
 - Autenticação e controle de acesso
-- Testes automatizados e qualidade de código
+- Migração, qualidade e integridade de dados
 - Arquitetura de APIs e bancos de dados
+- Testes automatizados e qualidade de código
 - Deploy, monitoramento e observabilidade
 - Sistemas de gestão e automação de processos
 
