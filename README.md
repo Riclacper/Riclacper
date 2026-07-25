@@ -17,7 +17,7 @@ Desenvolvo aplicações web e mobile voltadas a problemas reais, com foco em sis
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas no Senac Recife**, com conclusão prevista para **junho de 2026**, e tenho trajetória prática no desenvolvimento de aplicações web, mobile e APIs.
+Sou formado em **Análise e Desenvolvimento de Sistemas pelo Senac Recife**, com conclusão em **junho de 2026**, e tenho trajetória prática no desenvolvimento de aplicações web, mobile e APIs.
 
 Minha experiência como empreendedor e gestor da **iCanada Reparos** contribui para uma visão orientada a processos, atendimento, controle operacional e solução de necessidades reais de negócio.
 
@@ -123,7 +123,7 @@ Sistema Full Stack desenvolvido para a operação da iCanada Reparos, centraliza
 
 ### Análise e Desenvolvimento de Sistemas
 
-**Senac Recife** — formação em andamento, conclusão prevista para junho de 2026.
+**Senac Recife** — curso concluído em junho de 2026.
 
 ### Tecnologia em Redes de Computadores
 
