@@ -2,9 +2,9 @@
 
 # Olá, sou Ricardo Lacerda Pereira 👋
 
-### Desenvolvedor Full Stack JavaScript | React | Node.js | PostgreSQL | APIs REST
+### Desenvolvedor Full Stack | Web, Mobile e APIs
 
-Desenvolvo aplicações web voltadas a problemas reais, com interesse especial em sistemas de gestão, automação de processos, segurança de aplicações e experiência do usuário.
+Desenvolvo aplicações web e mobile voltadas a problemas reais, com foco em sistemas de gestão, automação de processos, segurança de aplicações e experiência do usuário.
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-Visitar-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ricardo-lacerda.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo%20Lacerda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-lacerda-pereira/)
@@ -17,19 +17,21 @@ Desenvolvo aplicações web voltadas a problemas reais, com interesse especial e
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas no Senac Recife**, em fase final de formação, com trajetória prática no desenvolvimento de aplicações web completas.
+Sou estudante de **Análise e Desenvolvimento de Sistemas no Senac Recife**, em fase final de formação, com trajetória prática no desenvolvimento de aplicações web, mobile e APIs.
 
 Minha experiência como empreendedor e gestor da **iCanada Reparos** contribui para uma visão orientada a processos, atendimento, controle operacional e solução de necessidades reais de negócio.
 
 Atualmente desenvolvo e mantenho o **iCanada Gestão**, um sistema empresarial próprio em homologação, participando do levantamento de requisitos, modelagem dos fluxos, desenvolvimento Full Stack, migração de dados, segurança, testes operacionais e infraestrutura em nuvem.
 
 - Desenvolvimento de interfaces responsivas com React e Vite
+- Desenvolvimento mobile com React Native, Expo e TypeScript
 - Construção de APIs REST com Node.js, Express e arquitetura MVC
 - Persistência de dados com PostgreSQL, MongoDB, Supabase e Firebase
 - Autenticação, autorização e controle de acesso por perfil
 - Migração de dados, deduplicação, backfills e auditoria de integridade
 - Geração de documentos em PDF e envio de e-mails transacionais
 - Testes automatizados, validação de dados e integração contínua
+- Dashboards operacionais e análise de dados com Python e Flask
 - Deploy com Cloudflare Pages, Render, Vercel e Netlify
 - Interesse em segurança de aplicações, proteção de dados e observabilidade
 - Disponível para oportunidades na área de desenvolvimento
@@ -40,16 +42,28 @@ Atualmente desenvolvo e mantenho o **iCanada Gestão**, um sistema empresarial p
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,vite,postgres,mongodb,firebase,supabase,git,github,vscode,postman,vercel,netlify,cloudflare,figma"
-    alt="HTML, CSS, JavaScript, React, Node.js, Express, Vite, PostgreSQL, MongoDB, Firebase, Supabase, Git, GitHub, VS Code, Postman, Vercel, Netlify, Cloudflare e Figma"
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,expo,nodejs,express,vite,python,flask,postgres,mongodb,supabase,git,github,vscode,postman,vercel,netlify,cloudflare"
+    alt="HTML, CSS, JavaScript, TypeScript, React, React Native, Expo, Node.js, Express, Vite, Python, Flask, PostgreSQL, MongoDB, Supabase, Git, GitHub, VS Code, Postman, Vercel, Netlify e Cloudflare"
   />
 </p>
 
-Também utilizo **JWT, Mongoose, Supabase Auth, cookies HttpOnly, proteção CSRF, rate limiting, Vitest, Playwright, ESLint, Prettier, GitHub Actions, Render, Resend API, Recharts, Nodemailer e APIs REST**.
+Também utilizo **JWT, Mongoose, Supabase Auth, cookies HttpOnly, proteção CSRF, rate limiting, Jest, Vitest, Playwright, ESLint, Prettier, GitHub Actions, Render, Resend API, Recharts, Nodemailer e APIs REST**.
 
 ---
 
 ## 📌 Projetos em destaque
+
+### 🏗️ [Cadastro de Obras](https://github.com/Riclacper/cadastro-obras-andamento)
+
+[Ver demonstração online](https://cadastro-obras-andamento.vercel.app/)
+
+Sistema web e mobile para acompanhamento de obras e fiscalizações, com autenticação por perfil, cadastro de obras, registros de campo, fotos, localização GPS, dashboards e relatórios profissionais.
+
+**Principais recursos:** controle de acesso para administrador e fiscal, status de obras, fiscalizações vinculadas, geolocalização com link para o Google Maps, geração de PDF e envio de relatórios por e-mail.
+
+**Tecnologias:** React Native, Expo, TypeScript, Node.js, Express, MongoDB, Mongoose, JWT, Resend, Render e Vercel.
+
+**Status:** frontend publicado na Vercel e API publicada no Render, com demonstração funcional.
 
 ### 🛡️ [EmpregaSafe](https://github.com/Riclacper/emprega-safe-react-node)
 
