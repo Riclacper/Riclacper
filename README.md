@@ -94,7 +94,7 @@ Transformo necessidades reais de negócio em software. No **iCanada Gestão**, a
   <img width="49%" src="./assets/project-icanada-gestao.svg" alt="Projeto iCanada Gestão" />
   <img width="49%" src="./assets/project-monta-health.svg" alt="Projeto Monta Health" />
   <img width="49%" src="./assets/project-global-career-os.svg" alt="Projeto Global Career OS" />
-  <img width="49%" src="./assets/project-jh-prome.svg" alt="Projeto JH Prome Sistema" />
+  <img width="49%" src="./assets/project-jh-prime.svg" alt="Projeto JH Prime Sistema" />
 </div>
 
 | Projeto | Segmento e proposta | Acesso |
@@ -104,7 +104,7 @@ Transformo necessidades reais de negócio em software. No **iCanada Gestão**, a
 | **iCanada Gestão** | Produto empresarial, migração de dados, segurança e cloud | Privado |
 | **Monta Health** | Produto digital voltado ao segmento de saúde | Sob consulta |
 | **Global Career OS** | Organização de processos e serviços | Sob consulta |
-| **JH Prome Sistema** | Apoio à gestão operacional | Sob consulta |
+| **JH Prime Sistema** | Apoio à gestão operacional | Sob consulta |
 
 <details>
 <summary><strong>Conheça os detalhes técnicos dos projetos</strong></summary>
@@ -129,7 +129,7 @@ Produto digital desenvolvido para o segmento de saúde.
 
 Solução digital para organização de processos e serviços.
 
-### ⚙️ JH Prome Sistema
+### ⚙️ JH Prime Sistema
 
 Sistema desenvolvido para apoiar atividades de gestão operacional.
 
