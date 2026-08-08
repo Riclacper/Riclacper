@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title description">
+  <title id="title">Ricardo Lacerda Pereira — Desenvolvedor Full Stack</title>
+  <desc id="description">Banner em tons de azul e violeta com a apresentação profissional de Ricardo Lacerda Pereira.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#020617"/>
+      <stop offset=".48" stop-color="#111827"/>
+      <stop offset="1" stop-color="#172554"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop stop-color="#22d3ee"/>
+      <stop offset=".5" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#2563eb" stop-opacity=".38"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#020617" flood-opacity=".5"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="340" rx="30" fill="url(#bg)"/>
+  <circle cx="1030" cy="35" r="240" fill="url(#glow)"/>
+  <circle cx="80" cy="320" r="170" fill="#7c3aed" opacity=".08"/>
+  <path d="M780 0 1200 0 1200 340 1040 340Z" fill="#3b82f6" opacity=".035"/>
+
+  <g opacity=".2" fill="none" stroke="#60a5fa">
+    <circle cx="1040" cy="170" r="78"/>
+    <circle cx="1040" cy="170" r="112"/>
+    <circle cx="1040" cy="170" r="146"/>
+  </g>
+  <g fill="#93c5fd">
+    <circle cx="1040" cy="58" r="5"/>
+    <circle cx="962" cy="226" r="4"/>
+    <circle cx="1148" cy="170" r="5"/>
+  </g>
+
+  <rect x="68" y="53" width="204" height="34" rx="17" fill="#0e7490" opacity=".28" stroke="#22d3ee" stroke-opacity=".6"/>
+  <circle cx="89" cy="70" r="5" fill="#22c55e"/>
+  <text x="104" y="76" fill="#a5f3fc" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1">OPEN TO WORK</text>
+
+  <text x="68" y="143" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800">Ricardo Lacerda Pereira</text>
+  <rect x="68" y="163" width="610" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="68" y="211" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600">Full Stack Developer</text>
+  <text x="315" y="211" fill="#64748b" font-family="Arial, Helvetica, sans-serif" font-size="25">|</text>
+  <text x="337" y="211" fill="#7dd3fc" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600">React · Node.js · TypeScript</text>
+  <text x="68" y="254" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="18">Produtos digitais, APIs seguras, automação e dados — da ideia ao deploy.</text>
+
+  <g filter="url(#shadow)">
+    <rect x="68" y="280" width="116" height="34" rx="17" fill="#172554" stroke="#3b82f6" stroke-opacity=".5"/>
+    <text x="126" y="302" fill="#bfdbfe" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">WEB</text>
+    <rect x="196" y="280" width="116" height="34" rx="17" fill="#164e63" stroke="#22d3ee" stroke-opacity=".5"/>
+    <text x="254" y="302" fill="#a5f3fc" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">MOBILE</text>
+    <rect x="324" y="280" width="116" height="34" rx="17" fill="#3b0764" stroke="#a855f7" stroke-opacity=".5"/>
+    <text x="382" y="302" fill="#e9d5ff" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">APIs</text>
+    <rect x="452" y="280" width="116" height="34" rx="17" fill="#422006" stroke="#f59e0b" stroke-opacity=".5"/>
+    <text x="510" y="302" fill="#fde68a" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">CLOUD</text>
+  </g>
+</svg>
