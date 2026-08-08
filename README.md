@@ -65,8 +65,7 @@ Transformo necessidades reais de negócio em software. No **iCanada Gestão**, a
 ## 📊 GitHub dashboard
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Riclacper&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=C9D1D9&amp;icon_color=A855F7&amp;locale=pt-br" alt="Estatísticas públicas do GitHub de Ricardo Lacerda" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riclacper&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=C9D1D9&amp;langs_count=8&amp;locale=pt-br" alt="Linguagens mais utilizadas nos repositórios públicos" />
+  <img src="./assets/github-overview.svg" alt="Visão geral da atuação técnica e tecnologias recorrentes no portfólio" width="100%" />
 </div>
 
 <div align="center">
@@ -91,16 +90,16 @@ Transformo necessidades reais de negócio em software. No **iCanada Gestão**, a
 
 <div align="center">
   <a href="https://github.com/Riclacper/cadastro-obras-andamento">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riclacper&amp;repo=cadastro-obras-andamento&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=C9D1D9&amp;icon_color=A855F7" alt="Repositório Cadastro de Obras" />
+    <img width="49%" src="./assets/project-cadastro-obras.svg" alt="Repositório Cadastro de Obras" />
   </a>
   <a href="https://github.com/Riclacper/emprega-safe-react-node">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riclacper&amp;repo=emprega-safe-react-node&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=C9D1D9&amp;icon_color=A855F7" alt="Repositório EmpregaSafe" />
+    <img width="49%" src="./assets/project-empregasafe.svg" alt="Repositório EmpregaSafe" />
   </a>
   <a href="https://github.com/Riclacper/AutoWashSmart">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riclacper&amp;repo=AutoWashSmart&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=C9D1D9&amp;icon_color=A855F7" alt="Repositório AutoWash Smart" />
+    <img width="49%" src="./assets/project-autowash.svg" alt="Repositório AutoWash Smart" />
   </a>
   <a href="https://github.com/Riclacper/aurora-stay-iceland">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riclacper&amp;repo=aurora-stay-iceland&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=C9D1D9&amp;icon_color=A855F7" alt="Repositório Aurora Stay Iceland" />
+    <img width="49%" src="./assets/project-aurora.svg" alt="Repositório Aurora Stay Iceland" />
   </a>
 </div>
 
