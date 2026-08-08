@@ -1,15 +1,17 @@
 <div align="center">
 
-# Olá, sou Ricardo Lacerda Pereira 👋
+<img src="./assets/profile-hero.svg" alt="Ricardo Lacerda Pereira — Desenvolvedor Full Stack especializado em React, Node.js e TypeScript" width="100%" />
 
-### Desenvolvedor Full Stack | Web, Mobile e APIs
+<br />
 
-Desenvolvo aplicações web e mobile voltadas a problemas reais, com foco em sistemas de gestão, automação de processos, segurança de aplicações e experiência do usuário.
+[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ricardo-lacerda.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-lacerda-pereira/)
+[![E-mail](https://img.shields.io/badge/E--MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardolacper@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/Riclacper?style=for-the-badge&logo=github&label=SEGUIDORES&color=181717)](https://github.com/Riclacper?tab=followers)
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-Visitar-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ricardo-lacerda.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo%20Lacerda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-lacerda-pereira/)
-[![GitHub](https://img.shields.io/badge/GitHub-Riclacper-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Riclacper)
-[![E-mail](https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardolacper@gmail.com)
+**Desenvolvedor Full Stack** focado em produtos digitais, sistemas de gestão, APIs seguras e automação de processos.
+
+[Sobre](#-sobre-mim) • [Stack](#-stack-tecnológica) • [Dashboard](#-github-dashboard) • [Projetos](#-projetos-em-destaque) • [Contato](#-vamos-conversar)
 
 </div>
 
@@ -17,143 +19,145 @@ Desenvolvo aplicações web e mobile voltadas a problemas reais, com foco em sis
 
 ## 👨‍💻 Sobre mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas pelo Senac Recife**, com conclusão em **junho de 2026**, e tenho trajetória prática no desenvolvimento de aplicações web, mobile e APIs.
+```text
+🎓  Formado em Análise e Desenvolvimento de Sistemas — Senac Recife
+🏢  Empreendedor e gestor da iCanada Reparos
+🧰  Criador do iCanada Gestão, produto Full Stack em homologação
+🔐  Foco em segurança, qualidade de dados, testes e observabilidade
+🚀  Atuação da descoberta do problema ao deploy e manutenção
+💼  Aberto a oportunidades Full Stack, Front-end ou Back-end
+```
 
-Minha experiência como empreendedor e gestor da **iCanada Reparos** contribui para uma visão orientada a processos, atendimento, controle operacional e solução de necessidades reais de negócio.
-
-Atualmente desenvolvo e mantenho o **iCanada Gestão**, um sistema empresarial próprio em homologação, participando do levantamento de requisitos, modelagem dos fluxos, desenvolvimento Full Stack, migração de dados, segurança, testes operacionais e infraestrutura em nuvem.
-
-- Desenvolvimento de interfaces responsivas com React e Vite
-- Desenvolvimento mobile com React Native, Expo e TypeScript
-- Construção de APIs REST com Node.js, Express e arquitetura MVC
-- Persistência de dados com PostgreSQL, MongoDB, Supabase e Firebase
-- Autenticação, autorização e controle de acesso por perfil
-- Migração de dados, deduplicação, backfills e auditoria de integridade
-- Geração de documentos em PDF e envio de e-mails transacionais
-- Testes automatizados, validação de dados e integração contínua
-- Dashboards operacionais e análise de dados com Python e Flask
-- Deploy com Cloudflare Pages, Render, Vercel e Netlify
-- Interesse em segurança de aplicações, proteção de dados e observabilidade
-- Disponível para oportunidades na área de desenvolvimento
+Transformo necessidades reais de negócio em software. No **iCanada Gestão**, atuo no levantamento de requisitos, modelagem de processos, frontend, backend, migração de dados, segurança, testes e infraestrutura em nuvem.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🧩 Stack tecnológica
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,expo,nodejs,express,vite,python,flask,postgres,mongodb,supabase,git,github,vscode,postman,vercel,netlify,cloudflare"
-    alt="HTML, CSS, JavaScript, TypeScript, React, React Native, Expo, Node.js, Express, Vite, Python, Flask, PostgreSQL, MongoDB, Supabase, Git, GitHub, VS Code, Postman, Vercel, Netlify e Cloudflare"
-  />
-</p>
+<div align="center">
 
-Também utilizo **JWT, Mongoose, Supabase Auth, cookies HttpOnly, proteção CSRF, rate limiting, Jest, Vitest, Playwright, ESLint, Prettier, GitHub Actions, Render, Resend API, Recharts, Nodemailer e APIs REST**.
+#### Front-end & Mobile
+
+[![Front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,vite&theme=dark)](https://skillicons.dev)
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+
+#### Back-end & Dados
+
+[![Back-end e dados](https://skillicons.dev/icons?i=nodejs,express,python,flask,postgres,mongodb,supabase,firebase&theme=dark)](https://skillicons.dev)
+
+#### Qualidade, Cloud & Ferramentas
+
+[![Ferramentas](https://skillicons.dev/icons?i=jest,git,github,githubactions,postman,vercel,netlify,cloudflare,vscode&theme=dark)](https://skillicons.dev)
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-2563EB?style=flat-square&logo=fastapi&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub dashboard
+
+<div align="center">
+  <img src="./assets/github-overview.svg" alt="Visão geral da atuação técnica e tecnologias recorrentes no portfólio" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Riclacper&amp;theme=github-dark-blue&amp;hide_border=true&amp;locale=pt_BR" alt="Sequência de contribuições no GitHub" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riclacper&amp;bg_color=0D1117&amp;color=38BDF8&amp;line=A855F7&amp;point=F8FAFC&amp;area=true&amp;hide_border=true&amp;custom_title=Contribuições%20recentes" alt="Gráfico de contribuições recentes no GitHub" width="100%" />
+</div>
+
+<details>
+<summary><strong>Ver dashboard de experiência por área</strong></summary>
+<br />
+<img src="./assets/skills-dashboard.svg" alt="Dashboard de experiência prática em desenvolvimento Full Stack" width="100%" />
+
+> Os níveis representam a experiência demonstrada nos projetos do portfólio. São indicadores qualitativos de recorrência e profundidade, não certificações.
+</details>
 
 ---
 
 ## 📌 Projetos em destaque
 
-### 🏗️ [Cadastro de Obras](https://github.com/Riclacper/cadastro-obras-andamento)
+<div align="center">
+  <a href="https://github.com/Riclacper/cadastro-obras-andamento">
+    <img width="49%" src="./assets/project-cadastro-obras.svg" alt="Repositório Cadastro de Obras" />
+  </a>
+  <a href="https://github.com/Riclacper/emprega-safe-react-node">
+    <img width="49%" src="./assets/project-empregasafe.svg" alt="Repositório EmpregaSafe" />
+  </a>
+  <a href="https://github.com/Riclacper/AutoWashSmart">
+    <img width="49%" src="./assets/project-autowash.svg" alt="Repositório AutoWash Smart" />
+  </a>
+  <a href="https://github.com/Riclacper/aurora-stay-iceland">
+    <img width="49%" src="./assets/project-aurora.svg" alt="Repositório Aurora Stay Iceland" />
+  </a>
+</div>
 
-[Ver demonstração online](https://cadastro-obras-andamento.vercel.app/)
+| Projeto | Solução e diferenciais | Demo |
+| --- | --- | :---: |
+| **Cadastro de Obras** | Web/mobile, perfis de acesso, GPS, fotos, dashboards, PDF e API | [Acessar](https://cadastro-obras-andamento.vercel.app/) |
+| **EmpregaSafe** | Análise de vagas, autenticação, relatórios, internacionalização, testes e CI | [Acessar](https://empregasafe.netlify.app) |
+| **AutoWash Smart** | MVP responsivo com fluxos operacionais, dashboard e testes | [Acessar](https://auto-wash-smart.vercel.app) |
+| **Aurora Stay Iceland** | SPA de hospedagens com busca, filtros, reservas e analytics | [Acessar](https://aurora-stay-iceland.vercel.app/) |
+| **iCanada Gestão** | Produto empresarial real, migração de dados, segurança e cloud | Privado |
 
-Sistema web e mobile para acompanhamento de obras e fiscalizações, com autenticação por perfil, cadastro de obras, registros de campo, fotos, localização GPS, dashboards e relatórios profissionais.
+<details>
+<summary><strong>Conheça os detalhes técnicos dos projetos</strong></summary>
 
-**Principais recursos:** controle de acesso para administrador e fiscal, status de obras, fiscalizações vinculadas, geolocalização com link para o Google Maps, geração de PDF e envio de relatórios por e-mail.
+### 🏗️ Cadastro de Obras
 
-**Tecnologias:** React Native, Expo, TypeScript, Node.js, Express, MongoDB, Mongoose, JWT, Resend, Render e Vercel.
+Sistema web e mobile para acompanhamento de obras e fiscalizações. Utiliza **React Native, Expo, TypeScript, Node.js, Express, MongoDB, JWT, Resend, Render e Vercel**.
 
-**Status:** frontend publicado na Vercel e API publicada no Render, com demonstração funcional.
+### 🛡️ EmpregaSafe
 
-### 🛡️ [EmpregaSafe](https://github.com/Riclacper/emprega-safe-react-node)
+Sistema Full Stack para identificar sinais de fraude em vagas de emprego. Inclui autenticação, recuperação de senha, análise por regras e IA opcional, denúncias, PDF, **Vitest, Playwright e GitHub Actions**.
 
-[Ver aplicação](https://empregasafe.netlify.app)
+### 🚗 AutoWash Smart
 
-Sistema Full Stack para análise da confiabilidade de vagas de emprego, identificação de sinais de fraude e apoio à segurança de candidatos.
+MVP demonstrativo para operação de lava-jato, com clientes, veículos, lavagem, self-service, mini shop e dashboard. Construído com **React, Vite, Vitest, ESLint e GitHub Actions**.
 
-**Principais recursos:** autenticação com JWT, verificação por e-mail, recuperação de senha, análise por regras e IA opcional, histórico, denúncias, dashboard, relatórios em PDF, internacionalização e testes automatizados.
+### 🏔️ Aurora Stay Iceland
 
-**Tecnologias:** React, Vite, Node.js, Express, MongoDB, Mongoose, JWT, Recharts, Nodemailer, Vitest, Playwright e GitHub Actions.
+SPA responsiva de hospedagens com filtros, detalhes, cálculo de reservas e dashboard analítico, construída com **React 19, Vite 7, Framer Motion e Vercel**.
 
-**Status:** aplicação Full Stack publicada, com frontend na Netlify e API preparada para o Render.
+### 🧰 iCanada Gestão
 
----
+Sistema empresarial próprio que centraliza clientes, estoque, ordens de serviço, vendas, orçamentos e relatórios. Usa **React, Node.js, Express MVC, Supabase PostgreSQL e Auth**, cookies HttpOnly, CSRF, rate limiting, Cloudflare, Render e Resend. Está em homologação e evolução contínua.
 
-### 🚗 [AutoWash Smart](https://github.com/Riclacper/AutoWashSmart)
-
-[Ver demonstração](https://auto-wash-smart.vercel.app)
-
-MVP demonstrativo de uma plataforma para lava-jato inteligente, com cadastro de clientes e veículos, identificação simulada, lavagem automatizada, self-service, mini shop e dashboard administrativo.
-
-**Tecnologias:** React, Vite, JavaScript, React Router, LocalStorage, Vitest, ESLint, Prettier e GitHub Actions.
-
-**Status:** MVP demonstrativo publicado. Pagamentos, biometria e equipamentos físicos são simulados.
-
----
-
-### 🏔️ [Aurora Stay Iceland](https://github.com/Riclacper/aurora-stay-iceland)
-
-[Ver aplicação](https://aurora-stay-iceland.vercel.app/)
-
-SPA responsiva para descoberta e simulação de reservas de hospedagens na Islândia, com busca, filtros, detalhes, cálculo de reservas e dashboard administrativo analítico.
-
-**Tecnologias:** React 19, Vite 7, React Router, Framer Motion, Lucide React, CSS e Vercel.
-
-**Status:** projeto acadêmico Front-end publicado, utilizando dados locais e fluxos demonstrativos.
-
----
-
-### 🧰 iCanada Gestão — Sistema empresarial em homologação
-
-Sistema Full Stack desenvolvido para a operação da iCanada Reparos, centralizando clientes, serviços, produtos, estoque, ordens de serviço, vendas, orçamentos, relatórios, documentos em PDF e envio transacional por e-mail.
-
-**Atuação técnica:** levantamento de requisitos, modelagem dos processos, desenvolvimento do frontend e backend, migração de dados legados, homologação, deploy e manutenção evolutiva.
-
-**Arquitetura e segurança:** React, Vite, Node.js, Express em MVC, APIs REST, Supabase PostgreSQL, Supabase Auth, sessões com cookies HttpOnly, controle de acesso por perfil, proteção CSRF, rate limiting e CORS restrito.
-
-**Dados e operação:** rotinas para importação de planilhas, migração, deduplicação, backfill, auditoria de integridade e preservação de registros históricos.
-
-**Infraestrutura:** Cloudflare Pages, Render, Supabase, Cloudflare DNS e Resend API.
-
-**Status:** ambiente de homologação funcional, em evolução contínua e preparação para operação definitiva.
+</details>
 
 ---
 
-## 🎓 Formação
+## 🎓 Formação & foco atual
 
-### Análise e Desenvolvimento de Sistemas
-
-**Senac Recife** — curso concluído em junho de 2026.
-
-### Tecnologia em Redes de Computadores
-
-Curso superior iniciado anteriormente, com quatro períodos cursados. Essa trajetória contribuiu para conhecimentos de infraestrutura, redes e fundamentos que complementam o desenvolvimento de aplicações web.
+- **Análise e Desenvolvimento de Sistemas — Senac Recife**, concluído em junho de 2026.
+- Quatro períodos cursados em **Tecnologia em Redes de Computadores**, agregando fundamentos de infraestrutura e redes.
+- Foco atual em **segurança de aplicações, arquitetura de APIs, qualidade de dados, testes, observabilidade e automação de processos**.
 
 ---
 
-## 🔐 Foco atual
-
-- Segurança de aplicações e proteção de dados
-- Autenticação e controle de acesso
-- Migração, qualidade e integridade de dados
-- Arquitetura de APIs e bancos de dados
-- Testes automatizados e qualidade de código
-- Deploy, monitoramento e observabilidade
-- Sistemas de gestão e automação de processos
-
----
-
-## 📫 Contato
-
-- **Portfólio:** [portfolio-ricardo-lacerda.vercel.app](https://portfolio-ricardo-lacerda.vercel.app/)
-- **LinkedIn:** [ricardo-lacerda-pereira](https://www.linkedin.com/in/ricardo-lacerda-pereira/)
-- **GitHub:** [Riclacper](https://github.com/Riclacper)
-- **E-mail:** [ricardolacper@gmail.com](mailto:ricardolacper@gmail.com)
-
----
+## 📫 Vamos conversar?
 
 <div align="center">
 
-**Tecnologia aplicada a problemas reais, com organização, segurança e propósito.**
+Busco oportunidades para contribuir com produtos que resolvam problemas reais com **organização, segurança e propósito**.
+
+[![Portfólio](https://img.shields.io/badge/Conheça_meu_portfólio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ricardo-lacerda.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Vamos_conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-lacerda-pereira/)
+[![E-mail](https://img.shields.io/badge/Envie_um_e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardolacper@gmail.com)
+
+<br />
+
+![Profile views](https://komarev.com/ghpvc/?username=Riclacper&style=flat-square&color=2563EB&label=VISITAS+AO+PERFIL)
 
 </div>

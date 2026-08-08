@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="660" viewBox="0 0 920 660" role="img" aria-labelledby="title desc">
+  <title id="title">Dashboard de experiência prática por tecnologia</title>
+  <desc id="desc">Gráfico de barras com oito competências observadas nos projetos em destaque de Ricardo Lacerda.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="react" x1="0" x2="1">
+      <stop stop-color="#06b6d4"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="node" x1="0" x2="1">
+      <stop stop-color="#22c55e"/>
+      <stop offset="1" stop-color="#84cc16"/>
+    </linearGradient>
+    <linearGradient id="language" x1="0" x2="1">
+      <stop stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="data" x1="0" x2="1">
+      <stop stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#d946ef"/>
+    </linearGradient>
+    <linearGradient id="security" x1="0" x2="1">
+      <stop stop-color="#f97316"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+    <linearGradient id="quality" x1="0" x2="1">
+      <stop stop-color="#ec4899"/>
+      <stop offset="1" stop-color="#f43f5e"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#020617" flood-opacity=".45"/>
+    </filter>
+  </defs>
+
+  <rect x="10" y="10" width="900" height="640" rx="28" fill="url(#background)" filter="url(#shadow)"/>
+  <circle cx="844" cy="72" r="92" fill="#2563eb" opacity=".08"/>
+  <circle cx="90" cy="620" r="115" fill="#8b5cf6" opacity=".07"/>
+
+  <text x="54" y="70" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Dashboard de experiência prática</text>
+  <text x="54" y="100" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="15">Índice qualitativo baseado nas entregas apresentadas nos projetos em destaque</text>
+
+  <!-- React -->
+  <text x="54" y="151" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600">React e ecossistema</text>
+  <text x="850" y="151" fill="#67e8f9" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">90% · forte</text>
+  <rect x="54" y="164" width="796" height="12" rx="6" fill="#1e293b"/>
+  <rect x="54" y="164" width="716" height="12" rx="6" fill="url(#react)"/>
+
+  <!-- JavaScript/TypeScript -->
+  <text x="54" y="215" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600">JavaScript e TypeScript</text>
+  <text x="850" y="215" fill="#93c5fd" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">88% · forte</text>
+  <rect x="54" y="228" width="796" height="12" rx="6" fill="#1e293b"/>
+  <rect x="54" y="228" width="700" height="12" rx="6" fill="url(#language)"/>
+
+  <!-- Node -->
+  <text x="54" y="279" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600">Node.js, Express e APIs REST</text>
+  <text x="850" y="279" fill="#86efac" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">85% · forte</text>
+  <rect x="54" y="292" width="796" height="12" rx="6" fill="#1e293b"/>
+  <rect x="54" y="292" width="677" height="12" rx="6" fill="url(#node)"/>
+
+  <!-- Database -->
+  <text x="54" y="343" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600">Bancos de dados e modelagem</text>
+  <text x="850" y="343" fill="#d8b4fe" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">80% · consistente</text>
+  <rect x="54" y="356" width="796" height="12" rx="6" fill="#1e293b"/>
+  <rect x="54" y="356" width="637" height="12" rx="6" fill="url(#data)"/>
+
+  <!-- Cloud -->
+  <text x="54" y="407" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600">Cloud, deploy e infraestrutura</text>
+  <text x="850" y="407" fill="#67e8f9" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">80% · consistente</text>
+  <rect x="54" y="420" width="796" height="12" rx="6" fill="#1e293b"/>
+  <rect x="54" y="420" width="637" height="12" rx="6" fill="url(#react)"/>
+
+  <!-- Security -->
+  <text x="54" y="471" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600">Autenticação e segurança</text>
+  <text x="850" y="471" fill="#fdba74" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">78% · consistente</text>
+  <rect x="54" y="484" width="796" height="12" rx="6" fill="#1e293b"/>
+  <rect x="54" y="484" width="621" height="12" rx="6" fill="url(#security)"/>
+
+  <!-- Tests -->
+  <text x="54" y="535" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600">Testes automatizados e CI</text>
+  <text x="850" y="535" fill="#f9a8d4" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">72% · consistente</text>
+  <rect x="54" y="548" width="796" height="12" rx="6" fill="#1e293b"/>
+  <rect x="54" y="548" width="573" height="12" rx="6" fill="url(#quality)"/>
+
+  <!-- Python -->
+  <text x="54" y="599" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600">Python e Flask</text>
+  <text x="850" y="599" fill="#fde68a" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">55% · em evolução</text>
+  <rect x="54" y="612" width="796" height="12" rx="6" fill="#1e293b"/>
+  <rect x="54" y="612" width="438" height="12" rx="6" fill="url(#security)"/>
+</svg>
