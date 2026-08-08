@@ -69,12 +69,10 @@ Transformo necessidades reais de negócio em software. No **iCanada Gestão**, a
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Riclacper&amp;theme=github-dark-blue&amp;hide_border=true&amp;locale=pt_BR" alt="Sequência de contribuições no GitHub" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riclacper&amp;bg_color=0D1117&amp;color=38BDF8&amp;line=A855F7&amp;point=F8FAFC&amp;area=true&amp;hide_border=true&amp;custom_title=Contribuições%20recentes" alt="Gráfico de contribuições recentes no GitHub" width="100%" />
 </div>
+
+> O gráfico apresenta somente as contribuições que o GitHub torna visíveis publicamente. Atividades privadas podem não entrar nessa contagem, de acordo com as configurações de privacidade do perfil.
 
 <details>
 <summary><strong>Ver dashboard de experiência por área</strong></summary>
@@ -89,50 +87,51 @@ Transformo necessidades reais de negócio em software. No **iCanada Gestão**, a
 ## 📌 Projetos em destaque
 
 <div align="center">
-  <a href="https://github.com/Riclacper/cadastro-obras-andamento">
-    <img width="49%" src="./assets/project-cadastro-obras.svg" alt="Repositório Cadastro de Obras" />
-  </a>
   <a href="https://github.com/Riclacper/emprega-safe-react-node">
     <img width="49%" src="./assets/project-empregasafe.svg" alt="Repositório EmpregaSafe" />
   </a>
-  <a href="https://github.com/Riclacper/AutoWashSmart">
-    <img width="49%" src="./assets/project-autowash.svg" alt="Repositório AutoWash Smart" />
-  </a>
-  <a href="https://github.com/Riclacper/aurora-stay-iceland">
-    <img width="49%" src="./assets/project-aurora.svg" alt="Repositório Aurora Stay Iceland" />
-  </a>
+  <img width="49%" src="./assets/project-monta-gestao.svg" alt="Projeto Monta Gestão" />
+  <img width="49%" src="./assets/project-icanada-gestao.svg" alt="Projeto iCanada Gestão" />
+  <img width="49%" src="./assets/project-monta-health.svg" alt="Projeto Monta Health" />
+  <img width="49%" src="./assets/project-global-career-os.svg" alt="Projeto Global Career OS" />
+  <img width="49%" src="./assets/project-jh-prome.svg" alt="Projeto JH Prome Sistema" />
 </div>
 
-| Projeto | Solução e diferenciais | Demo |
+| Projeto | Segmento e proposta | Acesso |
 | --- | --- | :---: |
-| **Cadastro de Obras** | Web/mobile, perfis de acesso, GPS, fotos, dashboards, PDF e API | [Acessar](https://cadastro-obras-andamento.vercel.app/) |
 | **EmpregaSafe** | Análise de vagas, autenticação, relatórios, internacionalização, testes e CI | [Acessar](https://empregasafe.netlify.app) |
-| **AutoWash Smart** | MVP responsivo com fluxos operacionais, dashboard e testes | [Acessar](https://auto-wash-smart.vercel.app) |
-| **Aurora Stay Iceland** | SPA de hospedagens com busca, filtros, reservas e analytics | [Acessar](https://aurora-stay-iceland.vercel.app/) |
-| **iCanada Gestão** | Produto empresarial real, migração de dados, segurança e cloud | Privado |
+| **Monta Gestão** | Solução digital para gestão e operação | Sob consulta |
+| **iCanada Gestão** | Produto empresarial, migração de dados, segurança e cloud | Privado |
+| **Monta Health** | Produto digital voltado ao segmento de saúde | Sob consulta |
+| **Global Career OS** | Organização de processos e serviços | Sob consulta |
+| **JH Prome Sistema** | Apoio à gestão operacional | Sob consulta |
 
 <details>
 <summary><strong>Conheça os detalhes técnicos dos projetos</strong></summary>
-
-### 🏗️ Cadastro de Obras
-
-Sistema web e mobile para acompanhamento de obras e fiscalizações. Utiliza **React Native, Expo, TypeScript, Node.js, Express, MongoDB, JWT, Resend, Render e Vercel**.
 
 ### 🛡️ EmpregaSafe
 
 Sistema Full Stack para identificar sinais de fraude em vagas de emprego. Inclui autenticação, recuperação de senha, análise por regras e IA opcional, denúncias, PDF, **Vitest, Playwright e GitHub Actions**.
 
-### 🚗 AutoWash Smart
+### 📊 Monta Gestão
 
-MVP demonstrativo para operação de lava-jato, com clientes, veículos, lavagem, self-service, mini shop e dashboard. Construído com **React, Vite, Vitest, ESLint e GitHub Actions**.
-
-### 🏔️ Aurora Stay Iceland
-
-SPA responsiva de hospedagens com filtros, detalhes, cálculo de reservas e dashboard analítico, construída com **React 19, Vite 7, Framer Motion e Vercel**.
+Solução digital para apoiar rotinas de gestão e operação.
 
 ### 🧰 iCanada Gestão
 
 Sistema empresarial próprio que centraliza clientes, estoque, ordens de serviço, vendas, orçamentos e relatórios. Usa **React, Node.js, Express MVC, Supabase PostgreSQL e Auth**, cookies HttpOnly, CSRF, rate limiting, Cloudflare, Render e Resend. Está em homologação e evolução contínua.
+
+### 🩺 Monta Health
+
+Produto digital desenvolvido para o segmento de saúde.
+
+### 🌎 Global Career OS
+
+Solução digital para organização de processos e serviços.
+
+### ⚙️ JH Prome Sistema
+
+Sistema desenvolvido para apoiar atividades de gestão operacional.
 
 </details>
 
